@@ -1,0 +1,25 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background: #262626;
+  font-family:sans-serif;
+}
+.container{
+  width: 1400px
+  margin:70px auto 0;
+  display; flex;
+  flex-direcction: row;
+}
+.demo {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+}
+h3 {
+  font-family:'Papyrus';
+  margin: 0 0 15px;
+}
+p {
+  font-family:'Arial Black';
+  margin: 0 0 15px;
+}
